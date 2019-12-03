@@ -94,6 +94,7 @@ h1 {
   100% {
     stroke-dashoffset: 0;
   }
+
 }
 
 @keyframes indigo-animate {
