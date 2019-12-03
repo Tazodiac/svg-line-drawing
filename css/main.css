@@ -72,3 +72,98 @@ h1 {
   }
 
 }
+
+@keyframes body-animate {
+
+  0% {
+    stroke-dashoffset: 1982px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes violet-animate {
+
+  0% {
+    stroke-dashoffset: 1918px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes indigo-animate {
+
+  0% {
+    stroke-dashoffset: 1812px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes blue-animate {
+
+  0% {
+    stroke-dashoffset: 1705px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes green-animate {
+
+  0% {
+    stroke-dashoffset: 1596px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes yellow-animate {
+
+  0% {
+    stroke-dashoffset: 1483px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes orange-animate {
+
+  0% {
+    stroke-dashoffset: 1366px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
+
+@keyframes red-animate {
+
+  0% {
+    stroke-dashoffset: 1243px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+  }
+
+}
